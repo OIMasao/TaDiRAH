@@ -12,6 +12,7 @@ Editorial Team (Digital Humanities Initiative, Graduate School of Humanities and
 + Shunpei Katakura / 片倉 峻平
 + Toshiki Koike / 小池 俊希
 + Ryo Mochizuki / 望月 澪
++ Masao Oi / 大井　将生
 + Kiyonori Nagasaki / 永崎 研宣
 + Ikki Ohmukai / 大向 一輝
 
