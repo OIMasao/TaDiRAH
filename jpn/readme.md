@@ -28,3 +28,8 @@ Translators:
   + National Institute for Japanese Language and Linguistics / 国立国語研究所
 + Shintaro SEKI / 関慎太朗
   + The University of Tokyo, Graduate School of Humanities and Sociology, Department of Cultural Resources Studies / 東京大学人文社会系研究科文化資源学研究専攻
++ Masao OI / 大井将生
+  + The University of Tokyo, Graduate School of Interdisciplinary Information Studies / 東京大学大学院学際情報学府
+  + 
+ 
+ 
